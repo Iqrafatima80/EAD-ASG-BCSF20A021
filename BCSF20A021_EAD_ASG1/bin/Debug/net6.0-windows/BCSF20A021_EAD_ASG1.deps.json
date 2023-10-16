@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BCSF20A021_EAD_ASG1/1.0.0": {
+        "runtime": {
+          "BCSF20A021_EAD_ASG1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BCSF20A021_EAD_ASG1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

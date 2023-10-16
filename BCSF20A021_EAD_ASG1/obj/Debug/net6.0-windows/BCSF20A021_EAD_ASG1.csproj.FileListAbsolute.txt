@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\BCSF20A021_EAD_ASG1\bin\Debug\net6.0-windows\BCSF20A021_EAD_ASG1.exe
+C:\Users\hp\source\repos\BCSF20A021_EAD_ASG1\bin\Debug\net6.0-windows\BCSF20A021_EAD_ASG1.deps.json
+C:\Users\hp\source\repos\BCSF20A021_EAD_ASG1\bin\Debug\net6.0-windows\BCSF20A021_EAD_ASG1.runtimeconfig.json
+C:\Users\hp\source\repos\BCSF20A021_EAD_ASG1\bin\Debug\net6.0-windows\BCSF20A021_EAD_ASG1.dll
+C:\Users\hp\source\repos\BCSF20A021_EAD_ASG1\bin\Debug\net6.0-windows\BCSF20A021_EAD_ASG1.pdb
+C:\Users\hp\source\repos\BCSF20A021_EAD_ASG1\obj\Debug\net6.0-windows\BCSF20A021_EAD_ASG1.Form1.resources
+C:\Users\hp\source\repos\BCSF20A021_EAD_ASG1\obj\Debug\net6.0-windows\BCSF20A021_EAD_ASG1.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\BCSF20A021_EAD_ASG1\obj\Debug\net6.0-windows\BCSF20A021_EAD_ASG1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\BCSF20A021_EAD_ASG1\obj\Debug\net6.0-windows\BCSF20A021_EAD_ASG1.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\BCSF20A021_EAD_ASG1\obj\Debug\net6.0-windows\BCSF20A021_EAD_ASG1.AssemblyInfo.cs
+C:\Users\hp\source\repos\BCSF20A021_EAD_ASG1\obj\Debug\net6.0-windows\BCSF20A021_EAD_ASG1.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\BCSF20A021_EAD_ASG1\obj\Debug\net6.0-windows\BCSF20A021_EAD_ASG1.dll
+C:\Users\hp\source\repos\BCSF20A021_EAD_ASG1\obj\Debug\net6.0-windows\refint\BCSF20A021_EAD_ASG1.dll
+C:\Users\hp\source\repos\BCSF20A021_EAD_ASG1\obj\Debug\net6.0-windows\BCSF20A021_EAD_ASG1.pdb
+C:\Users\hp\source\repos\BCSF20A021_EAD_ASG1\obj\Debug\net6.0-windows\BCSF20A021_EAD_ASG1.genruntimeconfig.cache
+C:\Users\hp\source\repos\BCSF20A021_EAD_ASG1\obj\Debug\net6.0-windows\ref\BCSF20A021_EAD_ASG1.dll
